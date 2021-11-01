@@ -14,7 +14,7 @@ Após instalado, digitar o comando:
 
 pyenv install -l (definir qual versão do python a ser instalada)
 
-pyenv instal 2.7.18-win32
+pyenv install 2.7.18-win32
 
 ## Para isolar o ambiente e setar o interpretador python dentro desta versão escolhida
 
@@ -32,7 +32,7 @@ No PowerShell, como administrador, digite o comando:
 
 set-executionpolicy unrestricted
 
-## Clonar o projeto do [GitHub] (https://github.com/GetulioCastro/speak_api_integracao)
+## Clonar o projeto do [GitHub] (https://github.com/GetulioCastro/transcreve_voz)
 
 Digitar o comando: pip install -r requirements.txt
 
