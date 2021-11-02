@@ -36,7 +36,7 @@ set-executionpolicy unrestricted
 
 Digitar o comando: pip install -r requirements.txt
 
-## Aí é sóo brincar de transcrição de voz
+## Aí é só brincar de transcrição de voz
 
 ## Também é possível aumentar ou diminuir o tempo de "espera" nas pausas de voz 
 
